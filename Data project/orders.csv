@@ -1,0 +1,1002 @@
+order_id,customer_id,city,product,category,quantity,price,order_date
+1,806,Karaj,Phone,Electronics,6,-224.0,2024-07-05
+2,850,Shiraz,Blender,Home,5,1731.0,2024-07-24
+3,808,Tehran,Tennis Racket,Sports,5,2741.0,2024-10-13
+4,818,Isfahan,Jeans,Fashion,NAN,4475.0,2025-01-26
+5,809,Shiraz,Laptop,Electronics,2,171.0,2025-05-16
+6,54,,Yoga Mat,Sports,1,1477.0,2025-02-10
+7,460,Karaj,Clean Code,Books,1,-570.0,2025-09-14
+8,227,Tehran,Bicycle Helmet,Sports,1,3752.0,2025-10-12
+9,491,Ahvaz,Yoga Mat,Sports,4,305.0,2024-07-16
+10,921,Mashhad,Python Book,Books,4,3683.0,2024-07-29
+11,282,Karaj,Hat,Fashion,2,,2024-09-21
+12,518,Ahvaz,Clean Code,Books,5,2465.0,2025-08-22
+13,463,Shiraz,Laptop,Electronics,5,1811.0,2025-07-29
+14,748,Mashhad,Data Science Handbook,Books,4,3316.0,2025-07-14
+15,977,Isfahan,Jacket,Fashion,3,2138.0,2025-06-02
+16,443,Mashhad,Python Book,Books,1,749.0,2024-08-18
+17,980,Karaj,Jeans,Fashion,5,541.0,2026-01-05
+18,992,Tabriz,Smart Watch,Electronics,3,3514.0,2024-07-06
+19,520,Shiraz,Yoga Mat,Sports,3,898.0,2025-12-27
+20,866,Karaj,Air Fryer,Home,2,936.0,2025-05-08
+21,866,Tehran,Headphones,Electronics,5,1902.0,2025-07-28
+22,720,Tabriz,Yoga Mat,Sports,1,1527.0,2025-02-18
+23,580,Ahvaz,Sneakers,Fashion,1,1536.0,2024-10-08
+24,221,Ahvaz,Phone,Electronics,1,801.0,2025-11-09
+25,320,Karaj,AI Basics,Books,3,1339.0,2025-05-28
+26,162,Tehran,Bicycle Helmet,Sports,1,480.0,2024-10-21
+27,622,Qom,Headphones,Electronics,4,3523.0,2025-09-24
+28,354,Ahvaz,Data Science Handbook,Books,2,4247.0,2024-09-08
+29,684,Tabriz,Headphones,Electronics,5,4036.0,2025-11-05
+30,8,Shiraz,Phone,Electronics,4,4959.0,2024-07-10
+31,336,Mashhad,Jeans,Fashion,2,2143.0,2025-03-07
+32,390,Shiraz,Smart Watch,Electronics,4,1489.0,2024-09-24
+33,883,Tehran,Bicycle Helmet,Sports,3,640.0,2025-06-25
+34,590,Ahvaz,Python Book,Books,4,687.0,2025-03-31
+35,415,Tehran,Dumbbells,Sports,4,2421.0,2024-09-09
+36,942,Karaj,Jeans,Fashion,5,3819.0,2026-04-21
+37,604,Ahvaz,Smart Watch,Electronics,1,2043.0,2025-08-04
+38,227,Karaj,Football,Sports,4,2591.0,2025-04-27
+39,523,Shiraz,Vacuum Cleaner,Home,5,984.0,2025-11-09
+40,150,Tabriz,Sneakers,Fashion,2,1985.0,2024-08-28
+41,78,Isfahan,Blender,Home,5,1302.0,2026-03-17
+42,698,Karaj,AI Basics,Books,5,4797.0,2025-08-17
+43,453,Tabriz,Jeans,Fashion,4,609.0,2025-09-07
+44,76,Tabriz,Hat,Fashion,1,2933.0,2025-10-16
+45,852,Tabriz,AI Basics,Books,1,516.0,2025-05-27
+46,394,Qom,Laptop,Electronics,5,4916.0,2025-10-16
+47,668,Shiraz,Bicycle Helmet,Sports,1,3734.0,2025-12-21
+48,981,Tehran,Hat,Fashion,4,4157.0,2024-10-16
+49,662,Isfahan,Python Book,Books,3,740.0,2025-10-13
+50,536,Isfahan,Phone,Electronics,4,3649.0,2025-11-02
+51,794,Karaj,Sneakers,Fashion,3,3223.0,2025-07-07
+52,97,Ahvaz,Football,Sports,3,589.0,2025-04-17
+53,84,Isfahan,Sneakers,Fashion,5,1281.0,2025-04-21
+54,726,Mashhad,Sneakers,Fashion,4,1106.0,2026-01-14
+55,687,Mashhad,Hat,Fashion,4,2740.0,2024-09-22
+56,317,Isfahan,Clean Code,Books,3,199.0,2025-05-21
+57,141,Isfahan,Microwave,Home,4,1622.0,2025-01-01
+58,856,Tehran,Headphones,Electronics,1,4208.0,2025-11-18
+59,158,Isfahan,Hat,Fashion,2,4942.0,2025-06-04
+60,421,Karaj,Lamp,Home,2,3635.0,2024-06-28
+61,240,Shiraz,Air Fryer,Home,5,2384.0,2025-08-17
+62,970,Qom,Jacket,Fashion,2,3063.0,2026-04-09
+63,429,Isfahan,Data Science Handbook,Books,4,4169.0,2025-11-06
+64,657,Qom,Lamp,Home,2,2098.0,2024-07-07
+65,292,Mashhad,Hat,Fashion,1,4276.0,2024-09-19
+66,851,Ahvaz,Microwave,Home,4,4255.0,2024-10-12
+67,425,Tehran,Phone,Electronics,4,2913.0,2024-06-11
+68,84,Karaj,Clean Code,Books,3,1981.0,2025-06-14
+69,344,Isfahan,Vacuum Cleaner,Home,3,861.0,2026-03-11
+70,852,Isfahan,Vacuum Cleaner,Home,3,3920.0,2026-04-27
+71,20,Tabriz,AI Basics,Books,5,93.0,2024-08-04
+72,114,Tabriz,Blender,Home,5,4373.0,2025-07-22
+73,430,Qom,Microwave,Home,1,441.0,2025-01-14
+74,17,Shiraz,Laptop,Electronics,4,4938.0,2025-11-14
+75,362,Shiraz,Microwave,Home,4,62.0,2026-02-03
+76,999,Karaj,Dumbbells,Sports,2,751.0,2025-11-02
+77,568,Tehran,Monitor,Electronics,5,4206.0,2025-10-16
+78,260,Tehran,AI Basics,Books,1,3219.0,2025-06-01
+79,644,Mashhad,T-Shirt,Fashion,3,2025.0,2026-03-18
+80,560,Karaj,Yoga Mat,Sports,2,413.0,2025-05-10
+81,65,Qom,Air Fryer,Home,4,1543.0,2024-09-30
+82,908,Tehran,Headphones,Electronics,2,408.0,2024-12-05
+83,485,Tabriz,Sneakers,Fashion,5,3312.0,2025-11-22
+84,887,Karaj,Phone,Electronics,3,2974.0,2024-07-02
+85,762,Qom,T-Shirt,Fashion,3,3629.0,2025-06-28
+86,510,Karaj,Data Science Handbook,Books,2,4114.0,2026-04-23
+87,441,Isfahan,Yoga Mat,Sports,1,3527.0,2024-08-03
+88,336,Tabriz,Yoga Mat,Sports,3,890.0,2024-08-04
+89,707,Qom,Jacket,Fashion,5,3540.0,2024-11-01
+90,446,Tabriz,Jacket,Fashion,1,2938.0,2026-02-03
+91,821,Isfahan,Laptop,Electronics,4,3026.0,2025-10-22
+92,130,Mashhad,Phone,Electronics,5,3639.0,2024-06-19
+93,34,Isfahan,Microwave,Home,3,3186.0,2025-12-16
+94,588,Isfahan,Data Science Handbook,Books,3,3686.0,2024-08-01
+95,286,Shiraz,Yoga Mat,Sports,4,2625.0,2026-03-11
+96,397,Mashhad,Laptop,Electronics,2,4138.0,2025-10-27
+97,293,Qom,Sneakers,Fashion,4,1807.0,2026-01-31
+98,177,Qom,Vacuum Cleaner,Home,2,656.0,2025-08-20
+99,556,Tabriz,Headphones,Electronics,3,581.0,2025-11-29
+100,230,Mashhad,Jeans,Fashion,2,3011.0,2025-10-17
+101,370,Karaj,Blender,Home,2,4097.0,2024-06-10
+102,317,Ahvaz,Clean Code,Books,2,756.0,2024-07-21
+103,76,Isfahan,Clean Code,Books,4,3404.0,2025-12-24
+104,530,Karaj,T-Shirt,Fashion,4,3866.0,2026-04-11
+105,444,Tehran,Lamp,Home,5,1540.0,2024-09-24
+106,166,Karaj,Monitor,Electronics,2,2541.0,2024-10-30
+107,257,Shiraz,Microwave,Home,5,2376.0,2024-08-03
+108,547,Mashhad,Yoga Mat,Sports,2,2530.0,2026-02-03
+109,176,Karaj,Tennis Racket,Sports,5,4806.0,2024-10-19
+110,972,Tabriz,Football,Sports,1,715.0,2024-06-30
+111,911,Tabriz,Lamp,Home,4,298.0,2025-10-06
+112,465,Mashhad,Jacket,Fashion,2,3376.0,2025-03-15
+113,476,Shiraz,Phone,Electronics,4,3454.0,2025-09-22
+114,752,Karaj,Hat,Fashion,2,2610.0,2025-04-06
+115,109,Karaj,SQL Guide,Books,3,4268.0,2025-12-11
+116,254,Isfahan,Air Fryer,Home,1,2241.0,2025-08-18
+117,429,Shiraz,Laptop,Electronics,3,3196.0,2026-02-04
+118,782,Isfahan,Microwave,Home,5,2611.0,2024-11-25
+119,510,Tehran,Clean Code,Books,4,4135.0,2025-03-26
+120,221,Karaj,Smart Watch,Electronics,5,3795.0,2025-01-16
+121,904,Qom,Laptop,Electronics,3,4104.0,2026-01-16
+122,138,Tabriz,Hat,Fashion,1,930.0,2025-07-30
+123,53,Shiraz,Jacket,Fashion,3,420.0,2025-06-29
+124,517,Qom,Hat,Fashion,3,652.0,2025-06-14
+125,999,Mashhad,Yoga Mat,Sports,5,1023.0,2024-09-23
+126,774,Isfahan,Data Science Handbook,Books,3,4619.0,2025-05-24
+127,42,Tehran,Lamp,Home,5,3338.0,2025-10-09
+128,468,Isfahan,Phone,Electronics,3,3930.0,2025-10-28
+129,327,Isfahan,Bicycle Helmet,Sports,2,2736.0,2026-02-01
+130,520,Qom,Clean Code,Books,3,4913.0,2025-04-24
+131,340,Mashhad,Yoga Mat,Sports,4,186.0,2025-05-27
+132,486,Tabriz,Clean Code,Books,3,268.0,2026-01-16
+133,492,Isfahan,Bicycle Helmet,Sports,2,470.0,2026-01-02
+134,249,Tehran,Bicycle Helmet,Sports,4,1260.0,2026-04-12
+135,322,Ahvaz,Football,Sports,2,205.0,2025-08-09
+136,794,Qom,Air Fryer,Home,2,3411.0,2025-10-10
+137,333,Qom,Phone,Electronics,5,1748.0,2025-12-10
+138,935,Karaj,Dumbbells,Sports,3,1468.0,2025-08-28
+139,981,Shiraz,Yoga Mat,Sports,3,4016.0,2024-11-27
+140,790,Tabriz,Hat,Fashion,3,1892.0,2025-03-15
+141,574,Tabriz,Air Fryer,Home,3,3980.0,2025-05-07
+142,918,Ahvaz,T-Shirt,Fashion,5,4499.0,2025-06-07
+143,979,Mashhad,Jeans,Fashion,3,394.0,2025-03-05
+144,207,Tabriz,Jacket,Fashion,3,3974.0,2024-12-20
+145,759,Shiraz,Yoga Mat,Sports,2,944.0,2026-02-04
+146,239,Tehran,Vacuum Cleaner,Home,5,1898.0,2026-02-27
+147,698,Isfahan,Smart Watch,Electronics,3,3919.0,2024-08-25
+148,958,Qom,Monitor,Electronics,2,3383.0,2026-03-14
+149,662,Tehran,SQL Guide,Books,3,2681.0,2025-03-03
+150,936,Isfahan,Monitor,Electronics,2,4433.0,2024-06-22
+151,191,Tabriz,SQL Guide,Books,1,3302.0,2025-10-04
+152,110,Karaj,Laptop,Electronics,3,4702.0,2026-01-22
+153,911,Isfahan,Jacket,Fashion,5,4345.0,2025-10-02
+154,339,Isfahan,Dumbbells,Sports,3,1629.0,2024-09-07
+155,810,Tabriz,Data Science Handbook,Books,2,165.0,2025-04-25
+156,528,Karaj,Tennis Racket,Sports,2,3371.0,2025-07-26
+157,489,Karaj,Smart Watch,Electronics,1,1563.0,2024-10-05
+158,458,Tabriz,Vacuum Cleaner,Home,3,3192.0,2025-01-11
+159,268,Karaj,Sneakers,Fashion,5,4743.0,2024-05-26
+160,164,Ahvaz,Vacuum Cleaner,Home,1,3862.0,2025-03-25
+161,630,Shiraz,Yoga Mat,Sports,1,2466.0,2025-05-26
+162,766,Karaj,Blender,Home,4,1304.0,2025-08-23
+163,846,Shiraz,Clean Code,Books,4,4453.0,2026-03-26
+164,541,Karaj,Lamp,Home,1,4354.0,2025-08-15
+165,925,Shiraz,Monitor,Electronics,1,555.0,2025-11-26
+166,875,Qom,Bicycle Helmet,Sports,2,1397.0,2025-04-15
+167,921,Qom,Phone,Electronics,5,4054.0,2024-08-16
+168,468,Tehran,Smart Watch,Electronics,2,4254.0,2025-07-14
+169,261,Tehran,Dumbbells,Sports,3,228.0,2025-06-24
+170,353,Mashhad,Lamp,Home,1,421.0,2025-07-22
+171,294,Ahvaz,Football,Sports,1,3917.0,2024-06-16
+172,460,Ahvaz,Blender,Home,4,3117.0,2025-06-10
+173,881,Karaj,Python Book,Books,5,1139.0,2026-03-15
+174,131,Shiraz,Phone,Electronics,5,3269.0,2025-11-07
+175,737,Ahvaz,Laptop,Electronics,3,3842.0,2026-04-04
+176,355,Isfahan,Dumbbells,Sports,2,2077.0,2025-08-29
+177,430,Tehran,Jeans,Fashion,1,313.0,2026-03-22
+178,35,Qom,Blender,Home,1,876.0,2026-01-13
+179,450,Shiraz,Football,Sports,2,412.0,2025-06-30
+180,297,Shiraz,Tennis Racket,Sports,1,1197.0,2025-10-12
+181,839,Karaj,Yoga Mat,Sports,5,4948.0,2026-04-03
+182,424,Tabriz,Microwave,Home,2,4320.0,2024-12-27
+183,642,Ahvaz,T-Shirt,Fashion,5,4896.0,2024-11-10
+184,688,Ahvaz,Dumbbells,Sports,1,2871.0,2026-03-04
+185,308,Ahvaz,Yoga Mat,Sports,4,3394.0,2024-10-14
+186,308,Isfahan,Lamp,Home,4,2024.0,2024-12-31
+187,571,Isfahan,Python Book,Books,5,3430.0,2025-07-15
+188,663,Mashhad,SQL Guide,Books,3,1715.0,2025-04-18
+189,53,Tabriz,Data Science Handbook,Books,1,4437.0,2024-11-26
+190,193,Shiraz,Clean Code,Books,5,373.0,2024-07-28
+191,217,Shiraz,SQL Guide,Books,3,2533.0,2024-05-30
+192,938,Shiraz,Smart Watch,Electronics,2,1725.0,2025-06-25
+193,547,Karaj,Yoga Mat,Sports,3,3168.0,2025-09-04
+194,478,Mashhad,Sneakers,Fashion,3,4250.0,2025-10-06
+195,424,Tehran,Data Science Handbook,Books,2,3086.0,2025-03-31
+196,567,Ahvaz,Tennis Racket,Sports,2,182.0,2025-02-06
+197,389,Shiraz,Jeans,Fashion,2,2752.0,2025-01-05
+198,990,Qom,Clean Code,Books,3,2158.0,2025-09-27
+199,738,Qom,SQL Guide,Books,3,1436.0,2024-10-05
+200,860,Mashhad,Lamp,Home,1,4342.0,2024-06-18
+201,237,Mashhad,Laptop,Electronics,4,1176.0,2026-02-19
+202,383,Tehran,Vacuum Cleaner,Home,2,4192.0,2025-08-24
+203,7,Ahvaz,Bicycle Helmet,Sports,4,4046.0,2024-05-31
+204,294,Tehran,Laptop,Electronics,5,2300.0,2025-11-14
+205,537,Isfahan,Dumbbells,Sports,2,926.0,2024-08-21
+206,835,Karaj,Blender,Home,5,4362.0,2025-01-28
+207,471,Shiraz,Jacket,Fashion,1,3106.0,2025-07-04
+208,416,Ahvaz,Microwave,Home,1,309.0,2024-08-18
+209,10,Isfahan,Clean Code,Books,4,509.0,2026-02-26
+210,879,Mashhad,Smart Watch,Electronics,4,2763.0,2025-12-15
+211,909,Qom,Football,Sports,2,1781.0,2026-04-23
+212,578,Tehran,T-Shirt,Fashion,1,2346.0,2025-11-22
+213,148,Ahvaz,Microwave,Home,1,1747.0,2026-01-06
+214,581,Ahvaz,Headphones,Electronics,2,4669.0,2025-01-16
+215,742,Mashhad,Yoga Mat,Sports,4,1196.0,2026-04-20
+216,238,Mashhad,Yoga Mat,Sports,1,850.0,2025-08-05
+217,993,Karaj,Hat,Fashion,5,4929.0,2025-06-25
+218,365,Ahvaz,Headphones,Electronics,4,4069.0,2025-01-03
+219,791,Tabriz,SQL Guide,Books,5,3163.0,2024-08-10
+220,390,Isfahan,Vacuum Cleaner,Home,1,2245.0,2024-10-19
+221,6,Tabriz,Data Science Handbook,Books,3,922.0,2024-08-16
+222,90,Isfahan,Data Science Handbook,Books,3,887.0,2024-09-27
+223,418,Mashhad,AI Basics,Books,5,4594.0,2025-10-21
+224,612,Karaj,Laptop,Electronics,3,4590.0,2024-08-18
+225,798,Mashhad,Python Book,Books,3,3439.0,2025-06-16
+226,702,Ahvaz,Tennis Racket,Sports,5,4318.0,2024-11-04
+227,505,Isfahan,Blender,Home,3,2516.0,2025-02-13
+228,307,Qom,Phone,Electronics,4,2310.0,2025-07-20
+229,508,Shiraz,Headphones,Electronics,3,2070.0,2026-02-14
+230,972,Ahvaz,Python Book,Books,2,2545.0,2024-05-21
+231,343,Ahvaz,Hat,Fashion,4,2749.0,2025-08-08
+232,971,Shiraz,Tennis Racket,Sports,3,2676.0,2026-01-22
+233,299,Qom,Data Science Handbook,Books,2,3312.0,2025-04-06
+234,837,Ahvaz,Tennis Racket,Sports,3,3130.0,2025-02-26
+235,559,Isfahan,T-Shirt,Fashion,5,1686.0,2026-01-11
+236,817,Tabriz,Football,Sports,4,1767.0,2025-08-06
+237,311,Shiraz,Smart Watch,Electronics,4,1190.0,2026-02-22
+238,460,Qom,Jeans,Fashion,4,3138.0,2024-07-29
+239,429,Tehran,Dumbbells,Sports,5,4200.0,2026-04-23
+240,788,Shiraz,Hat,Fashion,5,746.0,2024-09-03
+241,661,Ahvaz,Jeans,Fashion,5,412.0,2025-12-12
+242,265,Shiraz,Jacket,Fashion,1,136.0,2024-08-23
+243,590,Shiraz,Bicycle Helmet,Sports,5,4805.0,2026-04-19
+244,603,Isfahan,Data Science Handbook,Books,4,3843.0,2026-04-10
+245,426,Mashhad,T-Shirt,Fashion,4,906.0,2025-03-13
+246,467,Shiraz,Phone,Electronics,3,2605.0,2025-05-01
+247,449,Qom,Dumbbells,Sports,3,3950.0,2024-08-22
+248,118,Tehran,T-Shirt,Fashion,3,416.0,2026-05-12
+249,179,Isfahan,T-Shirt,Fashion,2,2048.0,2025-10-25
+250,817,Ahvaz,Hat,Fashion,4,3835.0,2025-01-07
+251,756,Shiraz,Blender,Home,4,3290.0,2024-06-13
+252,722,Shiraz,Clean Code,Books,4,3235.0,2024-05-19
+253,819,Isfahan,Microwave,Home,1,4779.0,2024-08-27
+254,269,Qom,Sneakers,Fashion,2,3798.0,2024-09-08
+255,402,Mashhad,Yoga Mat,Sports,5,3233.0,2026-01-30
+256,723,Tabriz,Sneakers,Fashion,4,1463.0,2026-04-04
+257,121,Shiraz,Bicycle Helmet,Sports,1,1147.0,2025-03-31
+258,145,Ahvaz,T-Shirt,Fashion,2,3108.0,2026-04-25
+259,434,Isfahan,Clean Code,Books,2,4758.0,2025-06-11
+260,502,Tabriz,Clean Code,Books,2,4595.0,2024-11-01
+261,55,Karaj,Blender,Home,3,3744.0,2026-02-08
+262,987,Qom,Smart Watch,Electronics,2,1648.0,2025-06-12
+263,172,Mashhad,AI Basics,Books,4,3686.0,2025-09-27
+264,282,Shiraz,Football,Sports,2,2442.0,2024-06-17
+265,761,Qom,Yoga Mat,Sports,2,3796.0,2025-12-15
+266,275,Karaj,Bicycle Helmet,Sports,1,4741.0,2024-09-08
+267,436,Mashhad,Football,Sports,4,4525.0,2024-12-24
+268,357,Mashhad,Microwave,Home,1,3734.0,2025-02-08
+269,706,Karaj,Python Book,Books,2,1769.0,2026-01-07
+270,834,Shiraz,Dumbbells,Sports,2,1190.0,2024-12-12
+271,612,Isfahan,Monitor,Electronics,3,4410.0,2025-02-26
+272,976,Mashhad,Sneakers,Fashion,3,4741.0,2025-02-12
+273,130,Isfahan,Air Fryer,Home,1,2321.0,2026-03-17
+274,403,Qom,Blender,Home,3,2077.0,2026-04-07
+275,463,Mashhad,Lamp,Home,3,3443.0,2025-06-03
+276,959,Karaj,Smart Watch,Electronics,5,2329.0,2026-04-26
+277,890,Mashhad,AI Basics,Books,3,4817.0,2024-05-17
+278,224,Ahvaz,Data Science Handbook,Books,1,4428.0,2025-06-26
+279,346,Isfahan,Air Fryer,Home,3,2694.0,2025-03-01
+280,102,Qom,Dumbbells,Sports,3,446.0,2024-07-01
+281,1,Ahvaz,Laptop,Electronics,2,3665.0,2025-08-25
+282,96,Karaj,Blender,Home,3,1352.0,2025-02-19
+283,406,Tabriz,T-Shirt,Fashion,3,1405.0,2024-07-07
+284,219,Qom,Air Fryer,Home,1,829.0,2024-05-16
+285,697,Qom,Phone,Electronics,5,1902.0,2025-10-28
+286,711,Isfahan,Laptop,Electronics,3,1037.0,2025-07-21
+287,749,Mashhad,Python Book,Books,2,3188.0,2024-08-14
+288,392,Isfahan,Headphones,Electronics,3,2501.0,2024-10-02
+289,625,Isfahan,Vacuum Cleaner,Home,5,4664.0,2024-05-23
+290,631,Qom,Data Science Handbook,Books,2,1290.0,2025-07-10
+291,604,Ahvaz,Vacuum Cleaner,Home,1,1196.0,2024-09-18
+292,284,Mashhad,Jacket,Fashion,3,1195.0,2025-01-23
+293,292,Tehran,Lamp,Home,5,4965.0,2026-01-27
+294,766,Ahvaz,Jeans,Fashion,5,4224.0,2024-11-24
+295,116,Shiraz,T-Shirt,Fashion,2,4104.0,2025-06-14
+296,370,Karaj,Clean Code,Books,1,4377.0,2024-05-27
+297,560,Isfahan,Air Fryer,Home,5,3497.0,2025-05-24
+298,15,Tabriz,Python Book,Books,1,4861.0,2024-07-23
+299,294,Ahvaz,Vacuum Cleaner,Home,1,3310.0,2025-10-15
+300,631,Isfahan,AI Basics,Books,1,4445.0,2025-11-16
+301,944,Shiraz,T-Shirt,Fashion,3,697.0,2025-10-20
+302,650,Mashhad,Lamp,Home,3,3250.0,2026-01-05
+303,89,Ahvaz,Jacket,Fashion,2,524.0,2025-01-20
+304,683,Isfahan,Smart Watch,Electronics,5,500.0,2025-03-27
+305,509,Karaj,Laptop,Electronics,2,142.0,2024-10-29
+306,130,Tabriz,Bicycle Helmet,Sports,3,1417.0,2025-05-30
+307,537,Mashhad,Laptop,Electronics,3,3567.0,2025-02-17
+308,524,Karaj,Hat,Fashion,1,4114.0,2025-08-24
+309,162,Tabriz,Smart Watch,Electronics,5,1417.0,2025-05-26
+310,3,Tehran,Monitor,Electronics,1,1921.0,2025-10-18
+311,393,Isfahan,Phone,Electronics,1,3914.0,2025-05-22
+312,330,Shiraz,Vacuum Cleaner,Home,5,3485.0,2024-12-30
+313,382,Mashhad,Data Science Handbook,Books,3,688.0,2025-12-21
+314,48,Ahvaz,Football,Sports,2,1878.0,2025-10-25
+315,89,Qom,Smart Watch,Electronics,3,2595.0,2025-04-15
+316,804,Tabriz,Headphones,Electronics,2,2438.0,2025-12-13
+317,996,Qom,Tennis Racket,Sports,4,3066.0,2026-01-10
+318,955,Ahvaz,Lamp,Home,2,1283.0,2024-05-21
+319,860,Tehran,Phone,Electronics,5,2887.0,2026-02-25
+320,211,Shiraz,T-Shirt,Fashion,4,2569.0,2024-08-29
+321,287,Mashhad,AI Basics,Books,1,1216.0,2026-05-13
+322,918,Karaj,Phone,Electronics,5,3433.0,2026-05-02
+323,137,Ahvaz,Python Book,Books,5,832.0,2025-10-14
+324,679,Isfahan,Monitor,Electronics,5,560.0,2025-08-03
+325,718,Karaj,Microwave,Home,3,2630.0,2025-06-21
+326,967,Shiraz,Jacket,Fashion,3,1963.0,2024-07-30
+327,169,Qom,Lamp,Home,1,1323.0,2024-08-31
+328,367,Shiraz,Data Science Handbook,Books,4,1039.0,2025-11-14
+329,93,Isfahan,Data Science Handbook,Books,4,2220.0,2024-09-14
+330,152,Mashhad,Hat,Fashion,1,1811.0,2025-04-15
+331,694,Tabriz,Microwave,Home,4,4256.0,2024-07-04
+332,570,Shiraz,Jeans,Fashion,1,3362.0,2025-08-21
+333,13,Tehran,Smart Watch,Electronics,1,1195.0,2024-09-16
+334,703,Mashhad,Blender,Home,2,3331.0,2025-05-31
+335,67,Shiraz,Bicycle Helmet,Sports,3,664.0,2024-06-06
+336,44,Qom,SQL Guide,Books,1,2766.0,2024-09-17
+337,509,Tehran,Phone,Electronics,5,3598.0,2025-06-23
+338,931,Isfahan,AI Basics,Books,2,2949.0,2024-12-20
+339,629,Shiraz,Sneakers,Fashion,4,1267.0,2024-06-19
+340,63,Mashhad,Jacket,Fashion,4,4561.0,2025-09-17
+341,659,Shiraz,Jacket,Fashion,2,3484.0,2024-12-05
+342,558,Qom,Football,Sports,4,2991.0,2025-09-18
+343,277,Isfahan,Hat,Fashion,5,2684.0,2025-06-16
+344,918,Tabriz,Headphones,Electronics,5,1844.0,2024-06-14
+345,239,Isfahan,Smart Watch,Electronics,5,2978.0,2026-01-03
+346,836,Tehran,Phone,Electronics,2,2233.0,2025-11-12
+347,181,Shiraz,Lamp,Home,4,2956.0,2024-11-08
+348,721,Karaj,Yoga Mat,Sports,3,4896.0,2024-06-12
+349,857,Qom,Bicycle Helmet,Sports,2,4662.0,2024-11-23
+350,93,Tehran,Yoga Mat,Sports,2,4067.0,2024-06-22
+351,490,Tehran,Lamp,Home,2,213.0,2025-11-05
+352,735,Isfahan,Hat,Fashion,2,1118.0,2025-04-28
+353,722,Isfahan,T-Shirt,Fashion,1,1260.0,2026-01-05
+354,722,Ahvaz,Monitor,Electronics,3,644.0,2025-06-01
+355,140,Isfahan,Football,Sports,3,2522.0,2025-04-10
+356,992,Karaj,AI Basics,Books,3,1477.0,2026-05-09
+357,752,Tabriz,Lamp,Home,2,3149.0,2025-03-25
+358,872,Tehran,Blender,Home,1,4742.0,2025-06-19
+359,580,Mashhad,Lamp,Home,3,1859.0,2026-02-28
+360,356,Karaj,SQL Guide,Books,3,687.0,2025-01-13
+361,272,Shiraz,Vacuum Cleaner,Home,3,3708.0,2024-05-26
+362,738,Tehran,Vacuum Cleaner,Home,3,2152.0,2024-09-02
+363,906,Ahvaz,Smart Watch,Electronics,4,3487.0,2024-11-01
+364,104,Qom,AI Basics,Books,3,4523.0,2025-06-03
+365,819,Tehran,Tennis Racket,Sports,2,3746.0,2024-07-29
+366,76,Karaj,T-Shirt,Fashion,3,2189.0,2024-08-30
+367,965,Mashhad,Air Fryer,Home,2,664.0,2025-11-26
+368,32,Ahvaz,Hat,Fashion,5,4004.0,2026-05-06
+369,104,Karaj,Lamp,Home,4,1336.0,2024-07-08
+370,272,Tabriz,Blender,Home,4,4589.0,2025-11-19
+371,586,Qom,Jeans,Fashion,1,456.0,2025-06-21
+372,90,Tabriz,Vacuum Cleaner,Home,3,81.0,2025-07-26
+373,212,Isfahan,Dumbbells,Sports,2,844.0,2024-06-10
+374,804,Ahvaz,T-Shirt,Fashion,4,996.0,2025-03-26
+375,558,Ahvaz,AI Basics,Books,3,796.0,2026-03-03
+376,457,Tehran,Microwave,Home,4,3076.0,2024-11-22
+377,858,Tabriz,Jacket,Fashion,4,2207.0,2025-01-01
+378,685,Karaj,Football,Sports,2,842.0,2024-08-10
+379,63,Ahvaz,Dumbbells,Sports,5,1913.0,2025-12-02
+380,903,Shiraz,Dumbbells,Sports,5,3939.0,2025-12-22
+381,515,Isfahan,Data Science Handbook,Books,1,3284.0,2024-06-19
+382,828,Shiraz,Smart Watch,Electronics,2,1419.0,2024-12-17
+383,446,Shiraz,Vacuum Cleaner,Home,4,691.0,2026-04-14
+384,90,Ahvaz,Lamp,Home,3,2669.0,2024-07-22
+385,533,Qom,Dumbbells,Sports,5,2721.0,2025-02-21
+386,116,Ahvaz,Monitor,Electronics,5,4330.0,2025-07-18
+387,777,Mashhad,Blender,Home,5,4866.0,2026-01-01
+388,902,Karaj,Monitor,Electronics,1,2393.0,2025-11-14
+389,624,Qom,Data Science Handbook,Books,4,4027.0,2025-12-21
+390,634,Ahvaz,Phone,Electronics,3,3351.0,2024-10-09
+391,764,Qom,Smart Watch,Electronics,3,1996.0,2024-07-04
+392,319,Tabriz,Sneakers,Fashion,1,2817.0,2025-03-21
+393,998,Qom,Python Book,Books,2,1150.0,2025-03-18
+394,453,Shiraz,Sneakers,Fashion,4,781.0,2024-11-23
+395,528,Isfahan,AI Basics,Books,5,3113.0,2024-07-11
+396,800,Tehran,Headphones,Electronics,5,3354.0,2024-09-30
+397,34,Qom,Blender,Home,2,522.0,2025-01-25
+398,844,Qom,Headphones,Electronics,2,2294.0,2025-05-27
+399,382,Qom,Dumbbells,Sports,1,300.0,2025-01-17
+400,565,Karaj,Dumbbells,Sports,2,3937.0,2026-01-05
+401,29,Ahvaz,Jeans,Fashion,3,790.0,2025-03-02
+402,663,Shiraz,Phone,Electronics,5,1805.0,2024-12-27
+403,886,Tehran,Microwave,Home,4,4254.0,2024-06-04
+404,230,Tabriz,SQL Guide,Books,2,4974.0,2024-05-23
+405,873,Karaj,Yoga Mat,Sports,3,3521.0,2025-06-04
+406,694,Ahvaz,Data Science Handbook,Books,2,3873.0,2025-03-20
+407,990,Karaj,Football,Sports,1,4240.0,2026-03-24
+408,701,Mashhad,Bicycle Helmet,Sports,5,2365.0,2025-03-16
+409,333,Tabriz,Python Book,Books,3,2314.0,2026-03-01
+410,784,Shiraz,Sneakers,Fashion,2,1278.0,2025-10-26
+411,144,Tehran,Monitor,Electronics,4,2668.0,2026-04-12
+412,398,Tehran,Data Science Handbook,Books,3,3478.0,2025-07-03
+413,228,Qom,Bicycle Helmet,Sports,2,2861.0,2026-05-15
+414,898,Isfahan,Hat,Fashion,3,1442.0,2026-03-19
+415,743,Isfahan,T-Shirt,Fashion,4,1098.0,2025-02-03
+416,763,Tabriz,T-Shirt,Fashion,2,2960.0,2024-12-29
+417,302,Qom,Data Science Handbook,Books,3,2184.0,2026-01-04
+418,967,Mashhad,Smart Watch,Electronics,1,4830.0,2025-12-30
+419,391,Tabriz,SQL Guide,Books,5,1031.0,2026-04-12
+420,351,Ahvaz,Python Book,Books,2,1175.0,2024-12-06
+421,798,Mashhad,Dumbbells,Sports,2,2641.0,2024-11-15
+422,60,Tehran,Data Science Handbook,Books,2,2617.0,2026-02-23
+423,783,Isfahan,Data Science Handbook,Books,2,1431.0,2025-12-26
+424,440,Ahvaz,Python Book,Books,2,3602.0,2026-02-22
+425,547,Shiraz,AI Basics,Books,4,88.0,2024-06-22
+426,19,Tehran,T-Shirt,Fashion,3,4400.0,2024-11-26
+427,106,Ahvaz,Blender,Home,3,2606.0,2024-09-24
+428,844,Tehran,Bicycle Helmet,Sports,3,1418.0,2024-07-20
+429,537,Karaj,Sneakers,Fashion,4,4312.0,2026-01-15
+430,769,Shiraz,SQL Guide,Books,3,4065.0,2025-05-17
+431,745,Isfahan,Air Fryer,Home,1,1921.0,2024-12-30
+432,127,Karaj,Vacuum Cleaner,Home,5,4183.0,2024-11-04
+433,50,Tehran,Smart Watch,Electronics,3,4430.0,2026-02-12
+434,455,Ahvaz,Laptop,Electronics,1,998.0,2025-07-15
+435,157,Shiraz,Monitor,Electronics,3,3936.0,2026-05-03
+436,533,Tabriz,Headphones,Electronics,4,877.0,2026-03-24
+437,524,Mashhad,Bicycle Helmet,Sports,2,3481.0,2024-08-30
+438,624,Shiraz,T-Shirt,Fashion,1,4127.0,2024-12-04
+439,420,Tabriz,Hat,Fashion,2,2982.0,2026-05-05
+440,705,Qom,Vacuum Cleaner,Home,5,4116.0,2024-12-13
+441,92,Mashhad,Jeans,Fashion,1,154.0,2026-04-02
+442,77,Mashhad,Dumbbells,Sports,2,787.0,2025-10-20
+443,476,Tehran,Jeans,Fashion,4,2475.0,2025-02-09
+444,821,Karaj,Phone,Electronics,1,2430.0,2025-05-18
+445,873,Isfahan,Python Book,Books,1,425.0,2024-05-24
+446,275,Mashhad,Microwave,Home,3,3635.0,2026-02-10
+447,410,Qom,Sneakers,Fashion,2,982.0,2025-06-29
+448,908,Isfahan,Jacket,Fashion,4,3504.0,2026-03-10
+449,427,Qom,Phone,Electronics,1,1355.0,2024-08-29
+450,627,Tehran,Dumbbells,Sports,2,3160.0,2025-05-17
+451,452,Tehran,Air Fryer,Home,4,975.0,2025-07-10
+452,890,Shiraz,Headphones,Electronics,3,151.0,2026-05-06
+453,678,Shiraz,Hat,Fashion,5,830.0,2025-08-01
+454,914,Tehran,Data Science Handbook,Books,4,1267.0,2025-12-07
+455,891,Isfahan,Phone,Electronics,5,3894.0,2025-10-04
+456,994,Tabriz,Smart Watch,Electronics,3,2023.0,2025-04-18
+457,388,Ahvaz,Monitor,Electronics,2,4559.0,2026-03-04
+458,459,Mashhad,Vacuum Cleaner,Home,4,3688.0,2025-12-22
+459,764,Tehran,AI Basics,Books,3,1022.0,2025-10-06
+460,563,Tehran,Smart Watch,Electronics,4,343.0,2025-12-06
+461,576,Shiraz,Monitor,Electronics,5,2545.0,2025-10-17
+462,865,Qom,Data Science Handbook,Books,3,494.0,2024-12-29
+463,734,Karaj,Hat,Fashion,5,4964.0,2025-09-11
+464,350,Karaj,Python Book,Books,1,1866.0,2024-05-17
+465,109,Tehran,Hat,Fashion,5,3112.0,2026-05-03
+466,261,Shiraz,Air Fryer,Home,2,3402.0,2024-09-01
+467,845,Shiraz,Vacuum Cleaner,Home,4,1816.0,2025-08-26
+468,858,Mashhad,T-Shirt,Fashion,4,430.0,2026-02-22
+469,987,Qom,AI Basics,Books,5,4180.0,2024-09-29
+470,859,Qom,Monitor,Electronics,1,4582.0,2025-08-01
+471,107,Ahvaz,Tennis Racket,Sports,5,1472.0,2024-09-23
+472,429,Shiraz,Bicycle Helmet,Sports,3,4179.0,2025-06-12
+473,825,Isfahan,Jacket,Fashion,3,2459.0,2025-08-21
+474,864,Karaj,Air Fryer,Home,5,4246.0,2025-03-17
+475,732,Tabriz,Tennis Racket,Sports,2,1767.0,2026-02-13
+476,711,Karaj,Jeans,Fashion,2,4177.0,2025-11-21
+477,585,Ahvaz,Headphones,Electronics,5,3985.0,2026-01-01
+478,110,Tehran,Yoga Mat,Sports,4,154.0,2025-11-01
+479,274,Isfahan,SQL Guide,Books,1,513.0,2024-12-05
+480,804,Tabriz,Sneakers,Fashion,2,558.0,2026-04-22
+481,105,Shiraz,Lamp,Home,1,2988.0,2025-08-21
+482,295,Tehran,Dumbbells,Sports,2,4235.0,2026-04-27
+483,56,Tehran,AI Basics,Books,4,2611.0,2025-12-01
+484,934,Karaj,Jeans,Fashion,5,3679.0,2024-12-31
+485,302,Qom,Bicycle Helmet,Sports,5,1659.0,2024-11-29
+486,123,Ahvaz,Vacuum Cleaner,Home,2,1473.0,2025-10-23
+487,134,Isfahan,Smart Watch,Electronics,3,4609.0,2025-02-09
+488,727,Isfahan,Yoga Mat,Sports,1,2757.0,2025-09-04
+489,793,Tabriz,Phone,Electronics,3,4939.0,2024-07-06
+490,803,Karaj,Clean Code,Books,5,2983.0,2024-07-28
+491,806,Isfahan,Tennis Racket,Sports,2,4314.0,2024-07-23
+492,358,Shiraz,Clean Code,Books,5,3354.0,2024-08-17
+493,224,Qom,Microwave,Home,3,3005.0,2025-03-11
+494,247,Shiraz,Football,Sports,1,2884.0,2025-08-14
+495,263,Tabriz,Headphones,Electronics,4,978.0,2025-06-14
+496,457,Qom,Monitor,Electronics,3,4263.0,2025-10-17
+497,85,Mashhad,Headphones,Electronics,2,2674.0,2025-10-23
+498,68,Shiraz,Lamp,Home,5,110.0,2026-02-15
+499,849,Ahvaz,Air Fryer,Home,1,1734.0,2025-11-16
+500,39,Mashhad,Phone,Electronics,1,3811.0,2025-04-19
+501,73,Shiraz,Laptop,Electronics,2,2113.0,2025-12-07
+502,415,Ahvaz,Jacket,Fashion,4,3745.0,2026-02-19
+503,7,Mashhad,T-Shirt,Fashion,4,1019.0,2025-11-13
+504,109,Tabriz,Football,Sports,1,2980.0,2025-10-11
+505,391,Ahvaz,Hat,Fashion,1,2356.0,2025-08-06
+506,140,Ahvaz,Smart Watch,Electronics,2,4420.0,2024-12-26
+507,909,Karaj,Yoga Mat,Sports,2,2491.0,2026-04-08
+508,43,Tehran,Monitor,Electronics,5,1208.0,2024-09-18
+509,970,Mashhad,Bicycle Helmet,Sports,4,4450.0,2025-11-26
+510,928,Isfahan,Jeans,Fashion,3,1784.0,2025-07-11
+511,118,Isfahan,Blender,Home,2,2120.0,2024-11-29
+512,563,Mashhad,Football,Sports,5,3828.0,2026-03-06
+513,744,Qom,T-Shirt,Fashion,3,854.0,2024-12-03
+514,292,Mashhad,Sneakers,Fashion,2,1971.0,2024-08-25
+515,632,Tabriz,Microwave,Home,4,3741.0,2025-04-16
+516,828,Karaj,Tennis Racket,Sports,5,4693.0,2025-05-23
+517,805,Shiraz,SQL Guide,Books,1,2615.0,2025-01-22
+518,751,Karaj,Data Science Handbook,Books,3,1150.0,2026-04-10
+519,499,Mashhad,AI Basics,Books,4,2988.0,2025-03-23
+520,913,Shiraz,Lamp,Home,1,2348.0,2024-10-05
+521,647,Tehran,T-Shirt,Fashion,1,202.0,2025-10-16
+522,929,Tehran,Bicycle Helmet,Sports,4,4883.0,2024-12-18
+523,670,Isfahan,Yoga Mat,Sports,5,4471.0,2025-09-10
+524,138,Qom,Jacket,Fashion,2,4880.0,2025-03-08
+525,515,Tehran,Bicycle Helmet,Sports,1,3300.0,2025-05-22
+526,457,Isfahan,Lamp,Home,2,4261.0,2024-10-05
+527,962,Karaj,Lamp,Home,5,1247.0,2025-09-22
+528,271,Karaj,Phone,Electronics,4,1948.0,2024-07-18
+529,398,Qom,Vacuum Cleaner,Home,2,4292.0,2025-05-19
+530,721,Tabriz,Python Book,Books,1,2704.0,2024-08-28
+531,386,Ahvaz,Hat,Fashion,5,4720.0,2024-11-09
+532,386,Shiraz,Hat,Fashion,1,4282.0,2025-01-27
+533,812,Qom,Dumbbells,Sports,3,2876.0,2025-09-25
+534,170,Shiraz,Football,Sports,5,1188.0,2025-08-08
+535,192,Isfahan,Monitor,Electronics,3,1782.0,2024-10-15
+536,831,Karaj,Hat,Fashion,1,1936.0,2025-07-13
+537,605,Isfahan,Smart Watch,Electronics,4,3974.0,2024-12-16
+538,588,Isfahan,Python Book,Books,2,403.0,2024-09-22
+539,58,Isfahan,Lamp,Home,1,4738.0,2024-10-12
+540,993,Tehran,Jeans,Fashion,5,3371.0,2026-01-18
+541,483,Qom,T-Shirt,Fashion,2,3729.0,2026-01-26
+542,814,Isfahan,Blender,Home,4,4972.0,2024-10-08
+543,351,Qom,Bicycle Helmet,Sports,3,1423.0,2026-04-17
+544,395,Isfahan,Bicycle Helmet,Sports,1,1932.0,2025-06-06
+545,701,Ahvaz,Laptop,Electronics,2,4332.0,2025-10-13
+546,924,Tehran,Lamp,Home,1,1503.0,2025-09-14
+547,676,Isfahan,Bicycle Helmet,Sports,1,813.0,2025-09-20
+548,431,Karaj,Bicycle Helmet,Sports,1,3584.0,2025-10-31
+549,809,Ahvaz,Monitor,Electronics,4,1929.0,2025-09-20
+550,138,Tabriz,Hat,Fashion,5,850.0,2025-07-24
+551,898,Ahvaz,SQL Guide,Books,1,2370.0,2026-01-17
+552,536,Mashhad,Jeans,Fashion,1,108.0,2025-12-27
+553,824,Karaj,Football,Sports,4,1732.0,2026-04-19
+554,668,Tabriz,Data Science Handbook,Books,1,1317.0,2025-07-25
+555,627,Tabriz,Hat,Fashion,4,4675.0,2025-05-24
+556,495,Isfahan,SQL Guide,Books,4,4572.0,2025-12-06
+557,315,Karaj,Hat,Fashion,5,4012.0,2025-01-29
+558,802,Isfahan,SQL Guide,Books,1,1932.0,2025-08-15
+559,821,Tehran,Phone,Electronics,5,3331.0,2025-04-26
+560,483,Ahvaz,Air Fryer,Home,1,796.0,2024-10-10
+561,82,Tehran,Laptop,Electronics,3,1866.0,2025-05-29
+562,729,Tehran,AI Basics,Books,5,4318.0,2025-03-04
+563,871,Tabriz,Air Fryer,Home,4,137.0,2024-12-07
+564,716,Shiraz,Vacuum Cleaner,Home,5,4232.0,2025-10-25
+565,671,Tehran,Tennis Racket,Sports,1,2996.0,2025-01-14
+566,686,Ahvaz,Vacuum Cleaner,Home,3,3322.0,2025-05-11
+567,755,Mashhad,Clean Code,Books,2,4291.0,2024-05-30
+568,357,Karaj,Monitor,Electronics,3,4630.0,2026-01-01
+569,953,Ahvaz,Jeans,Fashion,5,1643.0,2025-08-23
+570,519,Mashhad,Football,Sports,3,1483.0,2025-07-05
+571,970,Mashhad,Football,Sports,5,2460.0,2025-04-28
+572,711,Qom,Yoga Mat,Sports,5,4759.0,2025-01-26
+573,985,Qom,Clean Code,Books,4,2042.0,2025-04-27
+574,265,Mashhad,Clean Code,Books,1,3998.0,2024-09-11
+575,979,Karaj,SQL Guide,Books,2,2636.0,2025-07-11
+576,295,Mashhad,Bicycle Helmet,Sports,1,2207.0,2025-01-24
+577,488,Karaj,Data Science Handbook,Books,1,4592.0,2024-11-13
+578,970,Shiraz,Jeans,Fashion,5,2254.0,2024-11-18
+579,212,Shiraz,SQL Guide,Books,2,2032.0,2025-02-10
+580,798,Mashhad,Blender,Home,5,2966.0,2024-10-21
+581,981,Tehran,Laptop,Electronics,4,104.0,2025-11-20
+582,920,Tabriz,Data Science Handbook,Books,5,2633.0,2025-10-01
+583,228,Isfahan,SQL Guide,Books,5,2345.0,2025-06-26
+584,34,Karaj,Monitor,Electronics,4,3968.0,2025-11-19
+585,531,Qom,SQL Guide,Books,4,1036.0,2026-04-30
+586,595,Mashhad,T-Shirt,Fashion,1,1776.0,2025-06-07
+587,562,Tabriz,Sneakers,Fashion,5,2177.0,2024-11-22
+588,189,Qom,Microwave,Home,4,2860.0,2025-05-24
+589,875,Ahvaz,SQL Guide,Books,4,3099.0,2025-05-23
+590,590,Shiraz,Jacket,Fashion,2,4730.0,2024-09-26
+591,877,Ahvaz,Headphones,Electronics,2,4599.0,2025-07-31
+592,181,Ahvaz,Blender,Home,2,3924.0,2024-05-24
+593,805,Qom,SQL Guide,Books,5,4424.0,2025-04-03
+594,408,Mashhad,Sneakers,Fashion,5,4701.0,2024-07-02
+595,860,Mashhad,Vacuum Cleaner,Home,2,2133.0,2025-09-14
+596,574,Tabriz,Data Science Handbook,Books,3,3007.0,2025-05-18
+597,889,Shiraz,T-Shirt,Fashion,4,1043.0,2025-05-09
+598,364,Karaj,Bicycle Helmet,Sports,5,1479.0,2025-03-02
+599,629,Tabriz,Dumbbells,Sports,4,692.0,2025-06-09
+600,647,Ahvaz,SQL Guide,Books,2,2813.0,2025-07-20
+601,322,Karaj,Laptop,Electronics,2,2864.0,2025-01-03
+602,909,Qom,Sneakers,Fashion,5,3289.0,2025-02-16
+603,172,Isfahan,Hat,Fashion,5,3738.0,2025-07-12
+604,768,Mashhad,Phone,Electronics,2,2111.0,2026-05-02
+605,66,Qom,Blender,Home,4,893.0,2024-08-20
+606,784,Mashhad,Football,Sports,1,3302.0,2025-11-02
+607,671,Ahvaz,Headphones,Electronics,5,1322.0,2024-08-09
+608,642,Isfahan,Jeans,Fashion,2,2377.0,2025-08-11
+609,680,Karaj,Lamp,Home,2,284.0,2024-06-19
+610,562,Qom,Jacket,Fashion,4,4478.0,2025-02-17
+611,468,Ahvaz,Lamp,Home,2,4890.0,2026-01-16
+612,553,Shiraz,Bicycle Helmet,Sports,3,2894.0,2025-09-20
+613,267,Isfahan,Smart Watch,Electronics,3,3046.0,2025-07-11
+614,353,Tabriz,T-Shirt,Fashion,1,4337.0,2024-10-01
+615,307,Tehran,Clean Code,Books,1,4079.0,2025-09-15
+616,562,Karaj,Data Science Handbook,Books,5,1944.0,2024-05-22
+617,256,Isfahan,Air Fryer,Home,5,3630.0,2025-06-23
+618,433,Shiraz,AI Basics,Books,2,2204.0,2024-08-04
+619,761,Tabriz,Bicycle Helmet,Sports,3,2382.0,2026-03-10
+620,297,Mashhad,SQL Guide,Books,1,1544.0,2024-10-01
+621,638,Qom,Clean Code,Books,4,2279.0,2026-05-02
+622,993,Tehran,Microwave,Home,1,1296.0,2024-07-04
+623,733,Qom,Vacuum Cleaner,Home,3,2255.0,2024-09-20
+624,506,Shiraz,Phone,Electronics,1,1284.0,2024-05-30
+625,475,Tehran,Jacket,Fashion,3,4132.0,2025-05-30
+626,795,Ahvaz,T-Shirt,Fashion,2,509.0,2025-02-11
+627,918,Tabriz,Monitor,Electronics,4,1537.0,2024-11-27
+628,790,Qom,Python Book,Books,1,2089.0,2025-06-13
+629,534,Shiraz,Vacuum Cleaner,Home,2,3825.0,2024-08-19
+630,645,Tehran,AI Basics,Books,3,2696.0,2024-10-24
+631,654,Tabriz,Bicycle Helmet,Sports,1,2125.0,2025-09-19
+632,242,Ahvaz,Microwave,Home,1,1834.0,2024-09-07
+633,123,Ahvaz,T-Shirt,Fashion,2,2311.0,2026-01-03
+634,487,Isfahan,Vacuum Cleaner,Home,1,4810.0,2026-04-22
+635,94,Karaj,T-Shirt,Fashion,2,1341.0,2025-10-08
+636,550,Mashhad,Laptop,Electronics,3,1310.0,2026-05-03
+637,808,Karaj,Air Fryer,Home,2,2644.0,2025-12-07
+638,742,Isfahan,SQL Guide,Books,1,3144.0,2025-05-16
+639,302,Qom,T-Shirt,Fashion,4,3634.0,2025-12-08
+640,332,Qom,Lamp,Home,2,4503.0,2025-05-06
+641,544,Isfahan,Hat,Fashion,5,1363.0,2024-07-24
+642,465,Tehran,Data Science Handbook,Books,3,4486.0,2025-05-25
+643,878,Karaj,Dumbbells,Sports,2,203.0,2026-02-08
+644,991,Ahvaz,Tennis Racket,Sports,3,568.0,2026-03-20
+645,628,Tabriz,Lamp,Home,4,4567.0,2024-10-19
+646,536,Mashhad,Jacket,Fashion,3,954.0,2024-08-21
+647,110,Qom,Phone,Electronics,2,306.0,2024-12-07
+648,857,Ahvaz,Vacuum Cleaner,Home,1,4727.0,2026-03-03
+649,51,Karaj,Clean Code,Books,5,4885.0,2025-02-01
+650,672,Qom,Lamp,Home,1,157.0,2024-12-14
+651,762,Ahvaz,Smart Watch,Electronics,1,3006.0,2025-12-07
+652,42,Mashhad,T-Shirt,Fashion,5,2227.0,2025-11-07
+653,104,Shiraz,T-Shirt,Fashion,2,4305.0,2024-08-22
+654,673,Shiraz,Dumbbells,Sports,2,1632.0,2025-11-04
+655,765,Mashhad,Tennis Racket,Sports,5,4622.0,2025-07-14
+656,171,Isfahan,Yoga Mat,Sports,4,3548.0,2024-08-29
+657,162,Qom,Dumbbells,Sports,5,2814.0,2026-03-19
+658,423,Ahvaz,Sneakers,Fashion,5,2709.0,2025-05-30
+659,220,Ahvaz,Hat,Fashion,2,4663.0,2025-11-24
+660,983,Ahvaz,Yoga Mat,Sports,3,3756.0,2025-08-16
+661,531,Isfahan,Laptop,Electronics,3,4930.0,2024-05-31
+662,877,Karaj,T-Shirt,Fashion,3,1867.0,2024-12-20
+663,585,Isfahan,Headphones,Electronics,5,4238.0,2025-12-05
+664,142,Tabriz,Laptop,Electronics,4,2963.0,2024-10-21
+665,831,Tabriz,Hat,Fashion,2,1958.0,2025-02-01
+666,752,Mashhad,Monitor,Electronics,4,4711.0,2024-12-23
+667,720,Mashhad,Jacket,Fashion,2,4049.0,2026-04-21
+668,81,Tehran,Yoga Mat,Sports,1,4770.0,2025-06-09
+669,891,Shiraz,Sneakers,Fashion,4,3462.0,2024-09-15
+670,537,Tehran,Football,Sports,4,493.0,2025-03-23
+671,515,Shiraz,Hat,Fashion,5,1275.0,2025-04-14
+672,590,Mashhad,Vacuum Cleaner,Home,4,3700.0,2026-01-14
+673,136,Karaj,Air Fryer,Home,3,3280.0,2024-10-13
+674,409,Tabriz,Smart Watch,Electronics,5,453.0,2025-11-27
+675,134,Isfahan,Smart Watch,Electronics,5,3609.0,2026-04-29
+676,668,Shiraz,Clean Code,Books,2,4046.0,2025-06-23
+677,74,Tabriz,Bicycle Helmet,Sports,5,2067.0,2025-01-18
+678,688,Ahvaz,Data Science Handbook,Books,5,783.0,2024-09-07
+679,353,Tehran,Data Science Handbook,Books,3,1610.0,2025-04-08
+680,150,Qom,Jeans,Fashion,3,3672.0,2026-02-12
+681,776,Mashhad,Phone,Electronics,2,3112.0,2024-10-21
+682,15,Karaj,Laptop,Electronics,2,1259.0,2025-03-05
+683,340,Shiraz,Headphones,Electronics,4,3909.0,2024-06-07
+684,769,Tabriz,Tennis Racket,Sports,2,4526.0,2025-11-01
+685,716,Tehran,Dumbbells,Sports,5,1207.0,2026-04-26
+686,175,Tehran,Clean Code,Books,5,406.0,2025-01-31
+687,477,Tehran,Jeans,Fashion,5,2272.0,2024-07-08
+688,20,Tabriz,Smart Watch,Electronics,3,3000.0,2024-09-02
+689,102,Karaj,SQL Guide,Books,4,4215.0,2026-05-11
+690,204,Qom,Clean Code,Books,5,771.0,2024-11-21
+691,313,Karaj,Football,Sports,1,2076.0,2025-11-08
+692,701,Karaj,AI Basics,Books,2,200.0,2025-05-05
+693,832,Tehran,Sneakers,Fashion,2,4156.0,2025-02-21
+694,231,Isfahan,Jacket,Fashion,1,4596.0,2025-02-25
+695,534,Shiraz,Jacket,Fashion,2,769.0,2025-06-10
+696,994,Tabriz,SQL Guide,Books,5,1301.0,2025-07-25
+697,212,Isfahan,Yoga Mat,Sports,4,4491.0,2024-09-26
+698,706,Isfahan,Bicycle Helmet,Sports,2,1181.0,2025-03-27
+699,70,Mashhad,SQL Guide,Books,5,1344.0,2025-04-05
+700,902,Ahvaz,Microwave,Home,2,291.0,2025-04-06
+701,798,Shiraz,Data Science Handbook,Books,4,2292.0,2024-10-17
+702,632,Tabriz,Phone,Electronics,2,264.0,2026-01-31
+703,238,Shiraz,Bicycle Helmet,Sports,5,1941.0,2026-01-15
+704,515,Qom,Headphones,Electronics,1,3954.0,2024-09-29
+705,141,Isfahan,Jeans,Fashion,4,4075.0,2025-09-12
+706,948,Tabriz,Blender,Home,1,3397.0,2024-05-30
+707,182,Qom,SQL Guide,Books,2,1725.0,2024-07-21
+708,438,Ahvaz,Dumbbells,Sports,3,3798.0,2025-01-22
+709,627,Tehran,Monitor,Electronics,4,2613.0,2025-06-22
+710,899,Shiraz,Football,Sports,4,3792.0,2024-06-27
+711,397,Tehran,Bicycle Helmet,Sports,4,371.0,2025-12-07
+712,793,Tabriz,Microwave,Home,4,3310.0,2025-03-22
+713,942,Tehran,SQL Guide,Books,4,2461.0,2026-02-01
+714,740,Mashhad,Tennis Racket,Sports,4,3750.0,2024-08-15
+715,424,Karaj,Lamp,Home,5,1158.0,2025-06-21
+716,919,Shiraz,Python Book,Books,2,3766.0,2026-01-09
+717,665,Isfahan,Python Book,Books,3,2704.0,2026-04-23
+718,372,Mashhad,Laptop,Electronics,1,3731.0,2026-02-23
+719,564,Ahvaz,Dumbbells,Sports,5,1359.0,2025-06-06
+720,884,Isfahan,Phone,Electronics,3,4682.0,2026-03-21
+721,316,Tabriz,Blender,Home,2,470.0,2025-07-18
+722,984,Shiraz,Data Science Handbook,Books,2,1013.0,2024-09-26
+723,510,Qom,Monitor,Electronics,3,150.0,2025-08-27
+724,223,Qom,Football,Sports,5,4092.0,2025-01-13
+725,615,Tehran,AI Basics,Books,4,700.0,2026-01-20
+726,51,Isfahan,Lamp,Home,3,4617.0,2024-12-13
+727,875,Tehran,Vacuum Cleaner,Home,3,350.0,2024-10-10
+728,51,Mashhad,Bicycle Helmet,Sports,3,2762.0,2024-08-12
+729,677,Isfahan,SQL Guide,Books,2,2379.0,2026-01-30
+730,787,Tabriz,Clean Code,Books,3,343.0,2024-08-18
+731,864,Mashhad,Sneakers,Fashion,4,604.0,2025-07-26
+732,881,Tabriz,Jacket,Fashion,2,1049.0,2026-04-26
+733,713,Shiraz,Hat,Fashion,4,4347.0,2024-12-15
+734,542,Mashhad,Football,Sports,1,4730.0,2026-02-18
+735,869,Karaj,Clean Code,Books,3,3548.0,2026-01-28
+736,630,Qom,Hat,Fashion,5,2948.0,2024-09-24
+737,239,Tabriz,Dumbbells,Sports,4,1523.0,2026-01-29
+738,641,Mashhad,Vacuum Cleaner,Home,1,246.0,2025-09-03
+739,342,Karaj,Lamp,Home,4,3441.0,2024-06-30
+740,289,Tabriz,Tennis Racket,Sports,1,1698.0,2026-04-21
+741,332,Tehran,Headphones,Electronics,3,4200.0,2025-11-29
+742,631,Tehran,Headphones,Electronics,3,3294.0,2025-12-18
+743,491,Qom,Blender,Home,3,2818.0,2026-04-03
+744,472,Karaj,Phone,Electronics,4,1322.0,2026-02-16
+745,579,Karaj,AI Basics,Books,1,4318.0,2025-03-17
+746,702,Karaj,Bicycle Helmet,Sports,1,1756.0,2025-12-27
+747,348,Ahvaz,T-Shirt,Fashion,2,2347.0,2024-06-15
+748,610,Mashhad,Tennis Racket,Sports,5,3241.0,2024-11-22
+749,89,Qom,Sneakers,Fashion,1,2274.0,2025-07-12
+750,538,Tabriz,Microwave,Home,4,2529.0,2024-12-22
+751,936,Mashhad,Vacuum Cleaner,Home,3,356.0,2024-12-07
+752,158,Shiraz,Clean Code,Books,1,4003.0,2025-10-09
+753,147,Mashhad,Jacket,Fashion,5,2592.0,2025-04-15
+754,397,Mashhad,Tennis Racket,Sports,2,349.0,2025-08-28
+755,342,Qom,Headphones,Electronics,1,4918.0,2024-08-12
+756,592,Tabriz,Laptop,Electronics,5,2609.0,2024-06-07
+757,284,Karaj,Microwave,Home,2,1627.0,2025-03-04
+758,281,Mashhad,Python Book,Books,3,1273.0,2024-10-23
+759,212,Karaj,Monitor,Electronics,5,4261.0,2024-08-27
+760,824,Tabriz,Yoga Mat,Sports,3,1209.0,2026-05-06
+761,628,Karaj,Tennis Racket,Sports,2,633.0,2025-03-29
+762,483,Tehran,Dumbbells,Sports,1,1115.0,2024-06-13
+763,402,Isfahan,Smart Watch,Electronics,1,755.0,2025-07-25
+764,341,Shiraz,Bicycle Helmet,Sports,4,2963.0,2025-03-30
+765,96,Qom,Football,Sports,4,4701.0,2024-09-26
+766,238,Shiraz,Smart Watch,Electronics,3,3862.0,2025-09-08
+767,188,Karaj,Lamp,Home,3,3027.0,2025-06-20
+768,487,Mashhad,Jacket,Fashion,4,297.0,2024-07-20
+769,787,Karaj,Jacket,Fashion,4,1449.0,2025-02-28
+770,416,Mashhad,Bicycle Helmet,Sports,2,4211.0,2024-08-28
+771,473,Ahvaz,Hat,Fashion,1,2524.0,2025-11-11
+772,163,Qom,Dumbbells,Sports,2,2046.0,2025-11-27
+773,606,Ahvaz,Python Book,Books,3,1755.0,2026-04-25
+774,242,Isfahan,Clean Code,Books,3,4510.0,2026-04-25
+775,611,Qom,Monitor,Electronics,4,986.0,2026-01-11
+776,316,Ahvaz,Hat,Fashion,1,3697.0,2024-11-11
+777,336,Qom,Monitor,Electronics,1,4935.0,2025-06-07
+778,925,Tehran,Laptop,Electronics,2,1188.0,2025-12-30
+779,400,Qom,Blender,Home,4,4402.0,2025-03-09
+780,814,Tabriz,Blender,Home,3,2505.0,2025-12-19
+781,627,Ahvaz,Data Science Handbook,Books,1,4823.0,2024-05-23
+782,992,Tehran,Microwave,Home,1,3074.0,2025-11-28
+783,887,Tehran,Monitor,Electronics,3,948.0,2025-02-27
+784,326,Ahvaz,Air Fryer,Home,5,3279.0,2026-02-14
+785,679,Isfahan,AI Basics,Books,4,4515.0,2024-12-17
+786,864,Karaj,SQL Guide,Books,2,4600.0,2025-06-12
+787,12,Mashhad,SQL Guide,Books,3,1078.0,2024-09-29
+788,87,Isfahan,Phone,Electronics,4,3627.0,2024-10-01
+789,185,Qom,AI Basics,Books,5,3537.0,2026-02-12
+790,364,Shiraz,Dumbbells,Sports,5,3736.0,2025-06-12
+791,511,Shiraz,Air Fryer,Home,5,110.0,2025-12-27
+792,376,Tehran,Yoga Mat,Sports,4,4524.0,2025-12-26
+793,595,Qom,Monitor,Electronics,4,3069.0,2024-09-07
+794,530,Mashhad,Phone,Electronics,5,2339.0,2025-09-03
+795,646,Mashhad,Bicycle Helmet,Sports,1,2058.0,2025-09-10
+796,548,Tehran,Bicycle Helmet,Sports,3,482.0,2025-05-01
+797,752,Karaj,AI Basics,Books,5,3893.0,2025-12-23
+798,37,Tabriz,Data Science Handbook,Books,3,2419.0,2024-11-02
+799,174,Tehran,Yoga Mat,Sports,1,3926.0,2025-12-28
+800,85,Isfahan,Hat,Fashion,1,2399.0,2025-09-23
+801,631,Tabriz,Football,Sports,3,2114.0,2024-09-27
+802,179,Isfahan,Sneakers,Fashion,1,963.0,2026-01-23
+803,242,Qom,Data Science Handbook,Books,2,2190.0,2026-05-02
+804,991,Isfahan,Lamp,Home,1,2858.0,2024-08-09
+805,244,Qom,Tennis Racket,Sports,4,3432.0,2025-06-11
+806,658,Tabriz,Blender,Home,5,2876.0,2024-07-09
+807,488,Tabriz,Laptop,Electronics,2,3851.0,2025-06-27
+808,723,Ahvaz,Clean Code,Books,2,3161.0,2026-04-14
+809,13,Tabriz,Data Science Handbook,Books,2,4395.0,2025-08-03
+810,979,Tehran,AI Basics,Books,3,4393.0,2026-04-14
+811,941,Tabriz,Monitor,Electronics,3,3587.0,2026-01-30
+812,671,Ahvaz,Sneakers,Fashion,3,855.0,2025-01-31
+813,346,Isfahan,SQL Guide,Books,5,1646.0,2025-10-29
+814,13,Ahvaz,Hat,Fashion,1,119.0,2024-07-23
+815,225,Tabriz,Monitor,Electronics,1,3703.0,2025-05-09
+816,95,Tehran,Jeans,Fashion,1,244.0,2026-02-08
+817,981,Mashhad,Tennis Racket,Sports,5,1047.0,2026-05-10
+818,783,Isfahan,Monitor,Electronics,2,3129.0,2026-03-18
+819,677,Mashhad,Phone,Electronics,3,2463.0,2025-09-05
+820,166,Mashhad,Data Science Handbook,Books,4,2699.0,2025-02-02
+821,62,Tabriz,T-Shirt,Fashion,4,3233.0,2025-04-20
+822,951,Shiraz,Jeans,Fashion,4,618.0,2025-09-30
+823,148,Ahvaz,Dumbbells,Sports,2,4080.0,2024-09-03
+824,106,Tehran,Lamp,Home,1,3667.0,2025-02-04
+825,20,Qom,Laptop,Electronics,5,2102.0,2025-08-14
+826,156,Karaj,Vacuum Cleaner,Home,1,3248.0,2025-02-11
+827,963,Qom,Clean Code,Books,1,4272.0,2026-05-09
+828,232,Tehran,AI Basics,Books,4,624.0,2025-11-19
+829,958,Karaj,AI Basics,Books,1,4696.0,2025-11-14
+830,982,Mashhad,Sneakers,Fashion,4,502.0,2026-02-21
+831,779,Tabriz,Hat,Fashion,3,709.0,2025-08-28
+832,677,Shiraz,Blender,Home,5,372.0,2025-06-12
+833,87,Qom,Jacket,Fashion,1,2993.0,2025-09-25
+834,738,Shiraz,Blender,Home,1,1631.0,2024-06-09
+835,316,Qom,AI Basics,Books,1,4478.0,2026-03-04
+836,58,Karaj,Dumbbells,Sports,1,353.0,2025-04-27
+837,684,Qom,Smart Watch,Electronics,1,1784.0,2026-03-15
+838,38,Isfahan,Tennis Racket,Sports,5,1958.0,2024-07-27
+839,719,Isfahan,Python Book,Books,4,425.0,2025-01-18
+840,468,Isfahan,Phone,Electronics,1,2567.0,2024-08-22
+841,610,Shiraz,Football,Sports,1,985.0,2025-10-06
+842,412,Karaj,Phone,Electronics,4,2813.0,2026-04-09
+843,857,Shiraz,Monitor,Electronics,5,1175.0,2025-04-09
+844,124,Tabriz,Monitor,Electronics,2,2798.0,2024-07-18
+845,169,Qom,Air Fryer,Home,2,3080.0,2025-12-02
+846,811,Ahvaz,Lamp,Home,1,1142.0,2024-08-25
+847,8,Isfahan,Vacuum Cleaner,Home,4,711.0,2024-05-21
+848,827,Qom,Monitor,Electronics,3,3459.0,2026-04-25
+849,462,Ahvaz,Blender,Home,2,2269.0,2025-11-01
+850,185,Qom,Blender,Home,5,358.0,2026-01-15
+851,5,Shiraz,Football,Sports,3,2899.0,2025-07-17
+852,371,Shiraz,Vacuum Cleaner,Home,5,833.0,2026-02-07
+853,116,Isfahan,SQL Guide,Books,3,484.0,2024-11-29
+854,945,Tehran,AI Basics,Books,2,1358.0,2026-04-01
+855,258,Karaj,Headphones,Electronics,3,1766.0,2025-08-03
+856,948,Isfahan,Dumbbells,Sports,1,905.0,2024-07-07
+857,73,Shiraz,Vacuum Cleaner,Home,4,4268.0,2024-09-10
+858,204,Karaj,Clean Code,Books,5,2720.0,2025-07-18
+859,243,Ahvaz,Vacuum Cleaner,Home,3,1915.0,2024-08-23
+860,600,Qom,Air Fryer,Home,2,652.0,2025-09-09
+861,466,Isfahan,Smart Watch,Electronics,2,1820.0,2026-01-29
+862,648,Karaj,Data Science Handbook,Books,2,3799.0,2024-11-29
+863,709,Tehran,Jeans,Fashion,3,1092.0,2024-06-16
+864,429,Isfahan,Jeans,Fashion,1,3863.0,2025-08-27
+865,809,Isfahan,Jeans,Fashion,3,4994.0,2024-10-22
+866,878,Qom,Bicycle Helmet,Sports,2,758.0,2025-07-10
+867,15,Ahvaz,Lamp,Home,4,3840.0,2025-02-24
+868,228,Isfahan,Blender,Home,3,3607.0,2025-12-29
+869,482,Tehran,Football,Sports,4,412.0,2024-06-25
+870,842,Mashhad,Clean Code,Books,4,3976.0,2026-04-28
+871,772,Tehran,AI Basics,Books,2,730.0,2025-12-07
+872,245,Mashhad,SQL Guide,Books,2,2986.0,2025-03-13
+873,471,Tehran,Smart Watch,Electronics,3,1375.0,2026-05-05
+874,809,Karaj,AI Basics,Books,2,3370.0,2024-11-20
+875,341,Tehran,Python Book,Books,1,3202.0,2026-04-22
+876,814,Shiraz,Jacket,Fashion,3,4493.0,2025-12-25
+877,969,Karaj,Monitor,Electronics,3,499.0,2025-10-24
+878,634,Tehran,Laptop,Electronics,4,3044.0,2025-09-03
+879,69,Shiraz,Sneakers,Fashion,2,4627.0,2026-05-06
+880,665,Qom,Microwave,Home,2,4470.0,2024-09-08
+881,920,Tabriz,Tennis Racket,Sports,2,2675.0,2025-05-11
+882,382,Karaj,Dumbbells,Sports,3,496.0,2024-07-18
+883,482,Tabriz,AI Basics,Books,5,4364.0,2024-09-17
+884,914,Qom,Clean Code,Books,3,587.0,2024-11-23
+885,982,Mashhad,Laptop,Electronics,4,1514.0,2025-03-06
+886,152,Qom,Phone,Electronics,3,967.0,2026-04-28
+887,427,Isfahan,Blender,Home,5,235.0,2025-03-11
+888,22,Tabriz,Data Science Handbook,Books,4,3686.0,2026-03-06
+889,661,Karaj,Vacuum Cleaner,Home,1,1953.0,2025-10-29
+890,608,Qom,Clean Code,Books,3,2723.0,2025-09-24
+891,176,Tabriz,Data Science Handbook,Books,5,1130.0,2025-03-24
+892,152,Karaj,Air Fryer,Home,3,2410.0,2024-07-02
+893,549,Tabriz,Jacket,Fashion,2,1367.0,2026-05-13
+894,120,Tehran,Blender,Home,2,1370.0,2025-01-13
+895,379,Isfahan,Hat,Fashion,2,3661.0,2025-02-05
+896,152,Karaj,Lamp,Home,1,2646.0,2025-05-02
+897,125,Tehran,Clean Code,Books,2,4421.0,2025-03-19
+898,160,Tehran,AI Basics,Books,2,3802.0,2025-04-07
+899,918,Tabriz,Bicycle Helmet,Sports,3,2471.0,2025-09-12
+900,706,Mashhad,Tennis Racket,Sports,5,3671.0,2025-04-26
+901,316,Tehran,Python Book,Books,2,4563.0,2024-09-11
+902,95,Karaj,Clean Code,Books,2,3703.0,2025-05-15
+903,228,Tabriz,Monitor,Electronics,2,4829.0,2025-11-05
+904,694,Mashhad,Vacuum Cleaner,Home,1,4460.0,2025-08-14
+905,618,Tehran,Dumbbells,Sports,2,4067.0,2025-04-05
+906,396,Karaj,Jacket,Fashion,2,3553.0,2025-05-28
+907,457,Mashhad,Headphones,Electronics,3,2928.0,2025-03-26
+908,168,Ahvaz,Air Fryer,Home,4,3674.0,2025-03-06
+909,148,Shiraz,SQL Guide,Books,5,4948.0,2024-08-11
+910,956,Ahvaz,Jacket,Fashion,5,2797.0,2024-07-21
+911,180,Qom,Laptop,Electronics,4,2289.0,2025-07-13
+912,297,Qom,Tennis Racket,Sports,2,1573.0,2025-06-09
+913,573,Qom,Headphones,Electronics,5,2539.0,2025-10-02
+914,308,Qom,Vacuum Cleaner,Home,1,1311.0,2025-02-07
+915,929,Shiraz,Headphones,Electronics,4,1519.0,2025-09-30
+916,614,Karaj,Laptop,Electronics,3,4089.0,2024-07-22
+917,644,Qom,Dumbbells,Sports,5,3622.0,2025-02-03
+918,866,Tabriz,Headphones,Electronics,5,4762.0,2024-06-01
+919,473,Isfahan,Lamp,Home,1,1247.0,2025-04-07
+920,430,Karaj,Jeans,Fashion,1,2283.0,2025-05-19
+921,959,Mashhad,Headphones,Electronics,3,4388.0,2026-02-28
+922,771,Isfahan,Tennis Racket,Sports,2,824.0,2026-01-18
+923,702,Karaj,Yoga Mat,Sports,3,2516.0,2025-02-16
+924,14,Isfahan,Monitor,Electronics,5,2930.0,2024-10-09
+925,349,Isfahan,Yoga Mat,Sports,3,4022.0,2025-07-10
+926,852,Shiraz,Phone,Electronics,2,4173.0,2024-12-27
+927,565,Mashhad,Bicycle Helmet,Sports,5,4408.0,2026-05-14
+928,946,Tehran,AI Basics,Books,1,1004.0,2024-09-26
+929,837,Qom,Data Science Handbook,Books,3,3020.0,2024-10-04
+930,312,Tehran,Bicycle Helmet,Sports,3,1460.0,2026-05-11
+931,233,Tabriz,Phone,Electronics,2,1216.0,2026-04-19
+932,708,Mashhad,Blender,Home,2,693.0,2025-07-24
+933,202,Mashhad,Laptop,Electronics,4,3582.0,2024-06-27
+934,122,Tabriz,Monitor,Electronics,5,535.0,2025-09-07
+935,802,Mashhad,Laptop,Electronics,3,134.0,2024-08-21
+936,687,Karaj,Tennis Racket,Sports,5,1688.0,2024-11-20
+937,357,Karaj,Laptop,Electronics,2,2322.0,2025-12-29
+938,584,Mashhad,Lamp,Home,5,2031.0,2025-10-14
+939,733,Shiraz,Monitor,Electronics,1,4382.0,2024-12-23
+940,947,Shiraz,Jeans,Fashion,5,85.0,2024-08-24
+941,451,Mashhad,Dumbbells,Sports,3,4878.0,2024-11-20
+942,527,Shiraz,Microwave,Home,4,3524.0,2024-12-20
+943,113,Isfahan,Python Book,Books,3,1062.0,2025-09-04
+944,85,Karaj,Data Science Handbook,Books,3,4614.0,2024-06-25
+945,615,Tabriz,Python Book,Books,4,2373.0,2025-08-25
+946,876,Ahvaz,SQL Guide,Books,5,3386.0,2025-03-08
+947,14,Qom,Vacuum Cleaner,Home,4,3060.0,2024-11-14
+948,693,Mashhad,Smart Watch,Electronics,4,4331.0,2026-03-20
+949,605,Mashhad,Phone,Electronics,4,3331.0,2026-04-26
+950,206,Ahvaz,Vacuum Cleaner,Home,3,1680.0,2025-04-26
+951,784,Tabriz,Phone,Electronics,4,4138.0,2025-02-24
+952,497,Tabriz,Data Science Handbook,Books,4,4991.0,2025-07-03
+953,502,Qom,Air Fryer,Home,1,1050.0,2025-01-26
+954,851,Mashhad,Blender,Home,1,865.0,2024-07-08
+955,696,Karaj,Python Book,Books,2,3184.0,2026-01-24
+956,677,Qom,Microwave,Home,5,839.0,2024-08-01
+957,517,Tabriz,SQL Guide,Books,3,4128.0,2025-09-29
+958,976,Tehran,Yoga Mat,Sports,5,4527.0,2024-06-02
+959,874,Ahvaz,Python Book,Books,4,3737.0,2025-04-02
+960,571,Tabriz,AI Basics,Books,1,319.0,2024-11-12
+961,733,Ahvaz,Air Fryer,Home,4,1151.0,2025-03-30
+962,568,Qom,Python Book,Books,5,4068.0,2026-03-21
+963,401,Tabriz,Clean Code,Books,2,4200.0,2024-07-11
+964,329,Tehran,Clean Code,Books,4,2939.0,2025-03-02
+965,358,Tehran,Monitor,Electronics,1,1100.0,2025-05-25
+966,366,Ahvaz,Jacket,Fashion,1,3557.0,2025-05-03
+967,664,Tabriz,T-Shirt,Fashion,2,2078.0,2025-01-10
+968,346,Isfahan,Football,Sports,1,2547.0,2024-09-09
+969,674,Ahvaz,Monitor,Electronics,3,356.0,2025-08-29
+970,713,Qom,Bicycle Helmet,Sports,4,2234.0,2024-06-04
+971,400,Karaj,Football,Sports,3,3144.0,2025-12-20
+972,692,Shiraz,Football,Sports,4,869.0,2026-04-22
+973,630,Tabriz,Jacket,Fashion,5,2831.0,2024-11-01
+974,868,Mashhad,Jacket,Fashion,2,4121.0,2026-02-24
+975,305,Ahvaz,Tennis Racket,Sports,3,2222.0,2024-07-02
+976,607,Karaj,Lamp,Home,1,4786.0,2024-08-20
+977,438,Shiraz,T-Shirt,Fashion,5,4400.0,2025-09-13
+978,444,Karaj,T-Shirt,Fashion,3,4184.0,2025-03-18
+979,528,Qom,Air Fryer,Home,4,2108.0,2026-02-13
+980,591,Qom,Tennis Racket,Sports,1,4278.0,2024-11-22
+981,874,Ahvaz,Air Fryer,Home,3,4414.0,2026-02-03
+982,474,Isfahan,Football,Sports,5,1693.0,2025-05-23
+983,327,Mashhad,Blender,Home,3,3616.0,2025-07-09
+984,165,Tabriz,Air Fryer,Home,3,2401.0,2026-03-07
+985,154,Shiraz,Tennis Racket,Sports,4,2003.0,2024-09-08
+986,574,Ahvaz,Phone,Electronics,3,3852.0,2025-09-24
+987,140,Tehran,Python Book,Books,2,1355.0,2025-02-18
+988,873,Tehran,Sneakers,Fashion,5,1491.0,2026-03-05
+989,617,Tabriz,Python Book,Books,1,737.0,2025-04-01
+990,966,Isfahan,Smart Watch,Electronics,3,789.0,2025-06-25
+991,535,Tabriz,Vacuum Cleaner,Home,5,4148.0,2024-09-15
+992,792,Karaj,Python Book,Books,2,4963.0,2024-09-17
+993,224,Isfahan,Hat,Fashion,4,1982.0,2025-07-22
+993,419,Tabriz,Phone,Electronics,2,2299.0,2025-08-08
+995,717,Mashhad,Football,Sports,4,4420.0,2025-06-02
+996,253,Tabriz,Hat,Fashion,4,3940.0,2026-04-14
+997,22,Tehran,Microwave,Home,4,3062.0,2025-03-26
+998,317,Karaj,Phone,Electronics,3,4577.0,2025-06-12
+999,9,Ahvaz,Monitor,Electronics,2,3674.0,2025-06-16
+1000,216,Isfahan,Sneakers,Fashion,1,1978.0,2025-03-15
+21,866,Tehran,Headphones,Electronics,5,1902.0,2025-07-28

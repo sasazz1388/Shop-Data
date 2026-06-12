@@ -1,0 +1,137 @@
+2026-06-12 03:05:55,589 - INFO - راه‌اندازی دیتابیس...
+2026-06-12 03:05:55,898 - INFO - جدول سفارشات آماده است.
+2026-06-12 03:05:55,899 - INFO - شروع خواندن فایل: orders.csv
+2026-06-12 03:05:56,652 - INFO - حذف رکوردهای تکراری: 1 رکورد حذف شد.
+2026-06-12 03:05:57,012 - INFO - عملیات با موفقیت انجام شد. 996 رکورد نهایی وارد دیتابیس شد.
+2026-06-12 03:17:22,984 - INFO - راه‌اندازی دیتابیس...
+2026-06-12 03:17:23,034 - INFO - جدول سفارشات آماده است.
+2026-06-12 03:17:23,036 - INFO - شروع خواندن فایل: orders.csv
+2026-06-12 03:17:23,303 - INFO - حذف رکوردهای تکراری: 1 رکورد حذف شد.
+2026-06-12 03:17:23,482 - INFO - عملیات با موفقیت انجام شد. 996 رکورد نهایی وارد دیتابیس شد.
+2026-06-12 03:19:14,598 - INFO - راه‌اندازی دیتابیس...
+2026-06-12 03:19:14,599 - INFO - جدول سفارشات آماده است.
+2026-06-12 03:19:14,599 - INFO - شروع خواندن فایل: orders.csv
+2026-06-12 03:19:14,807 - INFO - حذف رکوردهای تکراری: 1 رکورد حذف شد.
+2026-06-12 03:19:15,942 - INFO - عملیات با موفقیت انجام شد. 995 رکورد نهایی وارد دیتابیس شد.
+2026-06-12 03:19:57,819 - INFO - راه‌اندازی دیتابیس...
+2026-06-12 03:19:57,820 - INFO - جدول سفارشات آماده است.
+2026-06-12 03:19:57,820 - INFO - شروع خواندن فایل: orders.csv
+2026-06-12 03:19:58,041 - INFO - حذف رکوردهای تکراری: 1 رکورد حذف شد.
+2026-06-12 03:19:58,628 - INFO - عملیات با موفقیت انجام شد. 995 رکورد نهایی وارد دیتابیس شد.
+2026-06-12 03:20:30,953 - INFO - راه‌اندازی دیتابیس...
+2026-06-12 03:20:30,954 - INFO - جدول سفارشات آماده است.
+2026-06-12 03:20:30,955 - INFO - شروع خواندن فایل: orders.csv
+2026-06-12 03:20:30,970 - INFO - حذف رکوردهای تکراری: 1 رکورد حذف شد.
+2026-06-12 03:20:31,140 - INFO - عملیات با موفقیت انجام شد. 995 رکورد نهایی وارد دیتابیس شد.
+2026-06-12 04:12:54,278 - INFO - راه‌اندازی دیتابیس...
+2026-06-12 04:12:54,279 - INFO - جدول سفارشات آماده است.
+2026-06-12 04:12:54,280 - INFO - شروع خواندن فایل: orders.csv
+2026-06-12 04:12:54,294 - INFO - حذف رکوردهای تکراری: 1 رکورد حذف شد.
+2026-06-12 04:12:54,666 - INFO - عملیات با موفقیت انجام شد. 995 رکورد نهایی وارد دیتابیس شد.
+2026-06-12 04:21:05,863 - INFO - راه‌اندازی دیتابیس...
+2026-06-12 04:21:05,866 - INFO - جدول سفارشات آماده است.
+2026-06-12 04:21:05,867 - INFO - شروع خواندن فایل: orders.csv
+2026-06-12 04:21:05,891 - INFO - حذف رکوردهای تکراری: 1 رکورد حذف شد.
+2026-06-12 04:21:06,152 - INFO - عملیات با موفقیت انجام شد. 995 رکورد نهایی وارد دیتابیس شد.
+2026-06-12 04:22:29,405 - INFO - راه‌اندازی دیتابیس...
+2026-06-12 04:22:29,407 - INFO - جدول سفارشات آماده است.
+2026-06-12 04:22:29,408 - INFO - شروع خواندن فایل: orders.csv
+2026-06-12 04:22:29,448 - INFO - حذف رکوردهای تکراری: 2 رکورد حذف شد.
+2026-06-12 04:22:29,754 - INFO - عملیات با موفقیت انجام شد. 994 رکورد نهایی وارد دیتابیس شد.
+2026-06-12 04:57:06,414 - INFO - OrderCleaner initialized.
+2026-06-12 04:57:06,579 - INFO - Loaded orders file: orders.csv with 1001 rows.
+2026-06-12 04:57:06,703 - INFO - Duplicate orders found and removed: 2
+2026-06-12 04:57:06,704 - INFO - Rows before duplicate removal: 1001
+2026-06-12 04:57:06,704 - INFO - Rows after duplicate removal: 999
+2026-06-12 05:00:26,364 - INFO - OrderCleaner initialized.
+2026-06-12 05:00:26,369 - INFO - Loaded orders file: orders.csv with 1001 rows.
+2026-06-12 05:00:26,372 - INFO - Duplicate orders found and removed: 2
+2026-06-12 05:00:26,373 - INFO - Rows before duplicate removal: 1001
+2026-06-12 05:00:26,373 - INFO - Rows after duplicate removal: 999
+2026-06-12 05:10:44,149 - INFO - OrderCleaner initialized.
+2026-06-12 05:10:44,154 - INFO - Loaded 1001 rows from orders.csv
+2026-06-12 05:10:44,156 - INFO - Duplicate rows removed: 2
+2026-06-12 05:10:44,557 - INFO - Cleaned rows count: 994
+2026-06-12 05:10:44,631 - INFO - Cleaned data saved to cleaned_orders.csv
+2026-06-12 05:12:42,737 - INFO - OrderCleaner initialized.
+2026-06-12 05:12:42,769 - INFO - Loaded orders file: orders.csv with 1001 rows.
+2026-06-12 05:12:42,775 - INFO - Duplicate orders found and removed: 2
+2026-06-12 05:12:42,775 - INFO - Rows before duplicate removal: 1001
+2026-06-12 05:12:42,776 - INFO - Rows after duplicate removal: 999
+2026-06-12 05:13:11,888 - INFO - OrderCleaner initialized.
+2026-06-12 05:13:11,892 - INFO - Loaded 1001 rows from orders.csv
+2026-06-12 05:13:11,895 - INFO - Duplicate rows removed: 2
+2026-06-12 05:13:11,920 - INFO - Cleaned rows count: 994
+2026-06-12 05:13:11,953 - INFO - Cleaned data saved to cleaned_orders.csv
+2026-06-12 05:18:26,388 - INFO - OrderCleaner initialized.
+2026-06-12 05:18:26,392 - INFO - Loaded 1001 duplicate from orders.csv
+2026-06-12 05:18:26,395 - INFO - Number of duplicate records: 2
+2026-06-12 05:18:26,413 - INFO - Cleaned duplicate count: 994
+2026-06-12 05:18:26,419 - INFO - Cleaned data saved to cleaned_orders.csv
+2026-06-12 05:19:04,706 - INFO - OrderCleaner initialized.
+2026-06-12 05:19:04,711 - INFO - Loaded orders file: orders.csv with 1001 rows.
+2026-06-12 05:19:04,714 - INFO - Duplicate orders found and removed: 2
+2026-06-12 05:19:04,714 - INFO - Rows before duplicate removal: 1001
+2026-06-12 05:19:04,715 - INFO - Rows after duplicate removal: 999
+2026-06-12 05:19:04,742 - INFO - Cleaned orders saved to: cleaned_orders.csv
+2026-06-12 05:19:04,742 - INFO - Final cleaned orders count: 994
+2026-06-12 05:19:39,066 - INFO - OrderCleaner initialized.
+2026-06-12 05:19:39,070 - INFO - Loaded orders file: orders.csv with 1001 rows.
+2026-06-12 05:19:39,073 - INFO - Duplicate orders found and removed: 2
+2026-06-12 05:19:39,073 - INFO - Rows before duplicate removal: 1001
+2026-06-12 05:19:39,073 - INFO - Rows after duplicate removal: 999
+2026-06-12 05:19:39,101 - INFO - Cleaned orders saved to: cleaned_orders.csv
+2026-06-12 05:19:39,101 - INFO - Final cleaned orders count: 994
+2026-06-12 05:33:34,299 - INFO - OrderCleaner initialized.
+2026-06-12 05:33:34,688 - INFO - Loaded orders file: orders.csv with 1001 rows.
+2026-06-12 05:33:34,806 - INFO - Duplicate orders found and removed: 2
+2026-06-12 05:33:34,806 - INFO - Rows before duplicate removal: 1001
+2026-06-12 05:33:34,807 - INFO - Rows after duplicate removal: 999
+2026-06-12 05:33:35,009 - INFO - Cleaned orders saved to: cleaned_orders.csv
+2026-06-12 05:33:35,010 - INFO - Final cleaned orders count: 994
+2026-06-12 05:33:35,097 - INFO - نمونه‌ای از داده‌های پاکسازی‌شده:
+2026-06-12 05:34:04,228 - INFO - OrderCleaner initialized.
+2026-06-12 05:34:04,233 - INFO - Loaded orders file: orders.csv with 1001 rows.
+2026-06-12 05:34:04,235 - INFO - Duplicate orders found and removed: 2
+2026-06-12 05:34:04,236 - INFO - Rows before duplicate removal: 1001
+2026-06-12 05:34:04,236 - INFO - Rows after duplicate removal: 999
+2026-06-12 05:34:04,262 - INFO - Cleaned orders saved to: cleaned_orders.csv
+2026-06-12 05:34:04,262 - INFO - Final cleaned orders count: 994
+2026-06-12 05:34:04,312 - INFO - نمونه‌ای از داده‌های پاکسازی‌شده:
+2026-06-12 05:34:41,197 - INFO - OrderCleaner initialized.
+2026-06-12 05:34:41,202 - INFO - Loaded orders file: orders.csv with 1001 rows.
+2026-06-12 05:34:41,205 - INFO - Duplicate orders found and removed: 2
+2026-06-12 05:34:41,205 - INFO - Rows before duplicate removal: 1001
+2026-06-12 05:34:41,206 - INFO - Rows after duplicate removal: 999
+2026-06-12 05:34:41,230 - INFO - Cleaned orders saved to: cleaned_orders.csv
+2026-06-12 05:34:41,230 - INFO - Final cleaned orders count: 994
+2026-06-12 05:40:31,769 - INFO - راه‌اندازی دیتابیس انجام شد.
+2026-06-12 05:40:32,057 - INFO - جدول‌های orders و users ساخته شدند.
+2026-06-12 05:40:32,058 - INFO - خواندن فایل: cleaned_orders.csv
+2026-06-12 05:40:32,559 - INFO - 994 رکورد در جدول orders ذخیره شد.
+2026-06-12 05:40:32,559 - INFO - خواندن فایل: users.csv
+2026-06-12 05:40:33,041 - INFO - 1000 رکورد در جدول users ذخیره شد.
+2026-06-12 06:12:20,798 - INFO - راه‌اندازی دیتابیس انجام شد.
+2026-06-12 06:12:20,802 - INFO - جدول‌های orders و users ساخته شدند.
+2026-06-12 06:12:20,803 - INFO - خواندن فایل: cleaned_orders.csv
+2026-06-12 06:12:21,153 - INFO - 994 رکورد در جدول orders ذخیره شد.
+2026-06-12 06:12:21,153 - INFO - خواندن فایل: users.csv
+2026-06-12 06:12:21,426 - INFO - 1000 رکورد در جدول users ذخیره شد.
+2026-06-12 06:18:01,569 - INFO - راه‌اندازی دیتابیس انجام شد.
+2026-06-12 06:18:01,571 - INFO - جدول‌های orders و users ساخته شدند.
+2026-06-12 06:18:01,572 - INFO - خواندن فایل: cleaned_orders.csv
+2026-06-12 06:18:01,766 - INFO - 994 رکورد در جدول orders ذخیره شد.
+2026-06-12 06:18:01,767 - INFO - خواندن فایل: users.csv
+2026-06-12 06:18:01,942 - INFO - 1000 رکورد در جدول users ذخیره شد.
+2026-06-12 06:22:41,340 - INFO - راه‌اندازی دیتابیس انجام شد.
+2026-06-12 06:22:41,341 - INFO - جدول‌های orders و users ساخته شدند.
+2026-06-12 06:22:41,342 - INFO - خواندن فایل: cleaned_orders.csv
+2026-06-12 06:22:41,955 - INFO - 994 رکورد در جدول orders ذخیره شد.
+2026-06-12 06:22:41,956 - INFO - خواندن فایل: users.csv
+2026-06-12 06:22:42,316 - INFO - 1000 رکورد در جدول users ذخیره شد.
+2026-06-12 06:23:10,471 - INFO - راه‌اندازی دیتابیس انجام شد.
+2026-06-12 06:23:10,472 - INFO - جدول‌های orders و users ساخته شدند.
+2026-06-12 06:23:10,473 - INFO - خواندن فایل: cleaned_orders.csv
+2026-06-12 06:23:11,305 - INFO - 994 رکورد در جدول orders ذخیره شد.
+2026-06-12 06:23:11,306 - INFO - خواندن فایل: users.csv
+2026-06-12 06:23:11,848 - INFO - 1000 رکورد در جدول users ذخیره شد.
